@@ -1,0 +1,17 @@
+{
+  "name": "screensolver",
+  "version": "1.0.0",
+  "description": "Screenshot + AI solver app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^26.2.0",
+    "screenshot-desktop": "^1.15.0",
+    "openai": "^4.9.0",
+    "global-hotkeys": "^1.0.6"
+  }
+}
